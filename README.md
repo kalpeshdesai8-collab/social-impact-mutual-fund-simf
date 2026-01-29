@@ -1,3 +1,5 @@
+https://doi.org/10.5281/zenodo.18418325
+
 # 📘 Social Impact Mutual Fund (SIMF)
 
 **Systematic Impact Plan for Social Impact (SIP‑SI), SIMF, CIF – Theoretical Social Impact Funding Model**
