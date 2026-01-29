@@ -5,6 +5,7 @@ version: "1.0.0"
 authors:
   - family-names: "Desai"
     given-names: "Kalpeshkumar Harishbhai"
+Zenodo. https://doi.org/10.5281/zenodo.18418325
 date-released: "2026-01-29"
 url: "https://github.com/kalpeshdesai8-collab/social-impact-mutual-fund-simf"
 repository-code: "https://github.com/kalpeshdesai8-collab/social-impact-mutual-fund-simf"
@@ -12,3 +13,5 @@ abstract: >
   Systematic Impact Plan for Social Impact (SIP‑SI), SIMF, CIF — A theoretical
   social impact funding model designed to explore structured, sustainable, and
   measurable social finance mechanisms.
+
+
