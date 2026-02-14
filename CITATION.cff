@@ -6,24 +6,13 @@ version: "1.0.0"
 authors:
   - family-names: "Desai"
     given-names: "Kalpeshkumar Harishbhai"
-    # orcid: "https://orcid.org/0000-0000-0000-0000"   # ← add if you have it
 doi: "10.5281/zenodo.18418325"
-identifiers:
-  - type: doi
-    value: "10.5281/zenodo.18418325"
-    description: "Archived snapshot of SIMF v1.0.0 on Zenodo"
+license: "CC-BY-4.0"
 date-released: "2026-01-29"
 url: "https://github.com/kalpeshdesai8-collab/social-impact-mutual-fund-simf"
 repository-code: "https://github.com/kalpeshdesai8-collab/social-impact-mutual-fund-simf"
-# license: "SPDX-ID"            # e.g., "Apache-2.0" or "MIT" once you confirm the repo license
-keywords:
-  - "social impact"
-  - "SSE"
-  - "SIF"
-  - "impact investing"
-  - "SDGs"
-  - "NIV"
 abstract: >
   Systematic Impact Plan for Social Impact (SIP‑SI), SIMF, CIF — A theoretical
   social impact funding model designed to explore structured, sustainable, and
   measurable social finance mechanisms.
+``
